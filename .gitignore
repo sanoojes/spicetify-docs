@@ -116,3 +116,4 @@ dist
 # Local planning artifacts
 docs/brainstorms/
 docs/plans/
+.playwright-mcp
